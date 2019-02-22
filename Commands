@@ -1,0 +1,6 @@
+Specific commands -
+
+While importing the data from ".tsv" extension file to MySQL,
+When following error occures,
+Error: This command is not alloweded for this version of MySQL
+Command: 
