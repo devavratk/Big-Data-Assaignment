@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../css/style.css">
+  
+    <title>IMDB Data Warehouse</title>
+</head>
+<body>
+        <header class="v-header container">
+                
+            <!-- Background video -->
+            <div class="fullscreen-video-wrap">
+                <video src="../videos/backg.mp4" autoplay="true" loop="true" muted></video>
+            </div>
+            
+            <!-- Search bar and Submit, Advance search buttons -->
+            <ul class='indexing'>
+                <li>
+                    <div class="header-content">
+                        <form id='searchData'>
+                            <input type="text" class="input" placeholder="Type the name of movie you love">
+                            <input type="submit" value="search" class="close-bttn">
+                        </form>
+                        <div id='errorMess'></div>
+                        <div id='authors'></div>
+                    </div>
+                </li>
+                <li id="moreButtId">
+                        <a href="advOptions.html">
+                            <input type="button" class="moreButt" value="Advance Search" >
+                        </a>
+                </li>
+            </ul>
+        </header>
+
+        <!-- JavaScript file -->
+        <script src='../js/main.js'></script>
+</body>
+</html>
