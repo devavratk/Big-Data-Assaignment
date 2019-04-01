@@ -24,7 +24,7 @@ exp.post('/ajaxcall', (req, res) => {
     let db = database.createConnection({
         host:       'localhost',
         user:       'root',
-        password:   '374619',
+        password:   '',
         database:   'bigdata'
     });
     console.log('Database connected');
