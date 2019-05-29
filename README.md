@@ -1,5 +1,4 @@
-Description 
--
+Description:
 This project uses large IMDB data set from (https://datasets.imdbws.com/), which comprises collection of movies, TV series, games, cast, crew and many more. 
 
 ### Implementation 
