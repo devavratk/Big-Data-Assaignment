@@ -1,5 +1,5 @@
 ## Description:
-This project uses OMDb API and official IMDB data set from (https://datasets.imdbws.com/), which comprises collection of movies, TV series, games, cast, crew and many more.
+Built a webapp which analyses IMDB's large data according to the user's requirement. It uses OMDb API and official IMDB data set from (https://datasets.imdbws.com/), which comprises collection of movies, TV series, games, cast, crew and many more.
 
 ### Implementation 
 Data is gathered from IMDB's official website as well as from OMDb API using Node.js HTTP requests.<br>
