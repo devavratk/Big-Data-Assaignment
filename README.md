@@ -37,4 +37,4 @@ Go to the /public/html folder and run 'index.html' to run the webapp.
 - <https://github.com/virajvchaudhari>
 
 **Ashwani Kumar**
-- <https://github.com/kirito-k>
+- <https://github.com/ashwani20>
