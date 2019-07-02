@@ -1,4 +1,4 @@
-# IMDB Big Data Analysis:
+# IMDB WebApp For Data Analysis:
 Built a webapp which analyses IMDB's large data according to the user's requirement. It uses OMDb API and official IMDB data set from (https://datasets.imdbws.com/), which comprises collection of movies, TV series, games, cast, crew and many more.
 
 ## Getting started:
