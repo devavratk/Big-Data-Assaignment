@@ -1,14 +1,20 @@
 # IMDB WebApp For Data Analysis:
 Built a webapp which analyses IMDB's large data according to the user's requirement. It uses OMDb API and official IMDB data set from (https://datasets.imdbws.com/), which comprises collection of movies, TV series, games, cast, crew and many more.
 
-## Getting started:
+## Table of contents:
+* [Getting Started](#getting-started)
+* [Installation](#installation)
+* [Screenshots](#screenshots)
+* [Creators](#creators)
+
+## Getting Started:
 - Data is gathered from IMDB's official website as well as from OMDb API using Node.js HTTP requests.
 - Data is preprocessed to handle any missing or inconsistent value. Post-preprocessing, a thorough analysis of database is done using Pandason Jupyter Notebook.
 - Generated ER diagrams, build schema in 3NF form and stored tables in MySQL database.
 - The commands for all the above are mentioned in the QUERY document.
 - For front-end, simple HTML/CSS and JavaScript is used. The backend is coded in Express.JS to parse through MySQL database for easy and efficient query retrieval.
 
-## Installing:
+## Installation:
 Copy all files or Clone the repository locally.
 Install all the requirements using following command on npm 
 ```bash
