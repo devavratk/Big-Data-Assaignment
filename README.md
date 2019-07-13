@@ -15,7 +15,7 @@ Built a webapp which analyses IMDB's large data according to the user's requirem
 - For front-end, simple HTML/CSS and JavaScript is used. The backend is coded in Express.JS to parse through MySQL database for easy and efficient query retrieval.
 
 ## Installation:
-Copy all files or Clone the repository locally.
+Copy all files or Clone the repository locally
 Install all the requirements using following command on npm 
 ```bash
 npm install
