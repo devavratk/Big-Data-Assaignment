@@ -29,10 +29,8 @@ Go to the /public/html folder and run 'index.html' to run the webapp.
 
 
 ## Screenshots:
-![WhatsApp Image 2019-03-25 at 11 22 22 PM](https://user-images.githubusercontent.com/35889562/57658330-88b68b00-75ac-11e9-8ca3-b1ae380da703.png)
-
-![WhatsApp Image 2019-03-25 at 11 22 35 PM](https://user-images.githubusercontent.com/35889562/57658331-88b68b00-75ac-11e9-998b-4d8127450778.jpeg)
-
+![](./images/imdb1.png)
+![](./images/imdb2.png)
 ## Creators:
 **Devavrat Kalam**
 - <https://github.com/kirito-k>
