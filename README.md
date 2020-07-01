@@ -21,7 +21,7 @@ It uses combined data extracted from OMDb API and official IMDB data set from (h
 ```bash
 npm install
 ```
-- Start server.js
+- Run the server file
 ```node
 node server.js
 ```
