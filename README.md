@@ -28,7 +28,7 @@ node server.js
 Go to the /public/html folder and run 'index.html' to run the webapp.
 
 
-## Screenshots:
+## Screenshots
 ![](./images/imdb1.jpg)
 ![](./images/imdb2.jpg)
 
