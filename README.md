@@ -3,12 +3,12 @@ IMDB Data Analyzer is a WebApp that allows users to perform complex filtering ov
 It uses combined data extracted from OMDb API and official IMDB data set from (https://datasets.imdbws.com/), which comprises a large collection of movies, TV series, games, cast, crew and many more.
 
 ## Table of contents
-* [Getting Started](#getting-started)
+* [Instructions](#Instructions)
 * [Installation](#installation)
 * [Screenshots](#screenshots)
 * [Creators](#creators)
 
-## Getting Started
+## Instructions
 - Data is gathered from IMDB's official website as well as from OMDb API using Node.js HTTP requests.
 - Data is preprocessed to handle any missing or inconsistent value. Post-preprocessing, a thorough analysis of database is done using Pandason Jupyter Notebook.
 - Generated ER diagrams, build schema in 3NF form and stored tables in MySQL database.
