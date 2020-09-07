@@ -1,6 +1,6 @@
 # IMDB Data Analyzer
 IMDB Data Analyzer is a WebApp that allows users to perform complex filtering over a gigantic IMDB database and retrieve results efficiently.
-It uses combined data extracted from OMDb API and official IMDB data set from (https://datasets.imdbws.com/), which comprises a large collection of movies, TV series, games, cast, crew and many more.
+It uses combined data extracted from OMDb API and official IMDB data set from (https://datasets.imdbws.com/), which comprises a large collection of movies, TV series, games, cast, crew and many more
 
 ## Table of contents
 * [Instructions](#Instructions)
